@@ -8,3 +8,5 @@ the whole neuron model implementation. Details on how to implement new neuron mo
 http://spinnakermanchester.github.io/spinn_tools/3.4.1/index.html
 
 The main network architecture could be found in the main python script named: 
+
+radio_unsupervised_net.py
